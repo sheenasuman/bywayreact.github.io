@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "text":"Byway's tech courses are top-notch! As someone who's always looking to stay ahead in the rapidly evolving tech world, and engaging multimedia.",
+        "image":"/images/quotes.svg",
+        "profile":"/images/span-7.svg",
+        "name":"Jane Doe",
+        "job":"Designer"
+    },
+    {
+        "id":2,
+        "text":"Byway's tech courses are top-notch! As someone who's always looking to stay ahead in the rapidly evolving tech world, and engaging multimedia.",
+        "image":"/images/quotes.svg",
+        "profile":"/images/span-7.svg",
+        "name":"Jane Doe",
+        "job":"Designer"
+    },
+    {
+        "id":3,
+        "text":"Byway's tech courses are top-notch! As someone who's always looking to stay ahead in the rapidly evolving tech world, and engaging multimedia.",
+        "image":"/images/quotes.svg",
+        "profile":"/images/span-7.svg",
+        "name":"Jane Doe",
+        "job":"Designer"
+    },
+    {
+        "id":4,
+        "text":"Byway's tech courses are top-notch! As someone who's always looking to stay ahead in the rapidly evolving tech world, and engaging multimedia.",
+        "image":"/images/quotes.svg",
+        "profile":"/images/span-7.svg",
+        "name":"Jane Doe",
+        "job":"Designer"
+    }
+]

@@ -1,0 +1,29 @@
+{
+  "reviews": [
+    {
+      "name": "Mark Doe",
+      "date": "22nd March, 2024",
+      "rating": 5,
+      "feedback": " I was initially apprehensive, having no prior design experience But the instructor,John Doe, did an amazing job of breaking down complex concepts into easily digestible modules. The video lectures were engaging, and the real-world examples really helped solidify my understanding."
+    },
+    {
+      "name": "Jane Smith",
+      "date": "20th March, 2024",
+      "rating": 4,
+      "feedback": "I was initially apprehensive, having no prior design experience. But the instructor, John Doe, did an amazing job of breaking down complex concepts into easily.digestible modules. The video lectures were engaging, and the real-world examples really helped solidify my understanding."
+    },
+    {
+      "name": "Mark Doe",
+      "date": "22nd March, 2024",
+      "rating": 5,
+      "feedback": "I was initially apprehensive, having no prior design experience. But the instructor, John Doe, did an amazing job of breaking down complex concepts into easily. digestible modules. The video lectures were engaging, and the real-world examples really helped solidify my understanding."
+    }
+  ],
+  "ratingsData": [
+    { "stars": 5, "percentage": 80 },
+    { "stars": 4, "percentage": 10 },
+    { "stars": 3, "percentage": 5 },
+    { "stars": 2, "percentage": 3 },
+    { "stars": 1, "percentage": 2 }
+  ]
+}

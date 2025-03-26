@@ -1,0 +1,42 @@
+[
+    {
+       "id":1,
+       "image": "/images/model-5.jpg",
+       "name":"Ronald Richards",
+       "work":"UI/UX Designer",
+       "star_ratings": 4.5,
+       "students":2400
+    },
+    {
+        "id":2,
+        "image": "/images/model-5.jpg",
+        "name":"Ronald Richards",
+        "work":"UI/UX Designer",
+        "star_ratings": 4.5,
+        "students":2400
+     },
+     {
+        "id":3,
+        "image": "/images/model-5.jpg",
+        "name":"Ronald Richards",
+        "work":"UI/UX Designer",
+        "star_ratings": 4.5,
+        "students":2400
+     },
+     {
+        "id":4,
+        "image": "/images/model-5.jpg",
+        "name":"Ronald Richards",
+        "work":"UI/UX Designer",
+        "star_ratings": 4.5,
+        "students":2400
+     },
+     {
+        "id":5,
+        "image": "/images/model-5.jpg",
+        "name":"Ronald Richards",
+        "work":"UI/UX Designer",
+        "star_ratings": 4.5,
+        "students":2400
+     }
+]
