@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "image": "/images/bg.jpg",
+    "title": "Beginners Guide to Design",
+    "subtitle": "By Ronald Richards",
+    "star_ratings": 3,
+    "ratings":1200,
+    "status": "22 Total Hours, 155 Lecture, Beginner",
+    "price": 149.9
+  },
+  {
+    "id": 2,
+    "image": "/images/bg.jpg",
+    "title": "Beginners Guide to Design",
+    "subtitle": "By Ronald Richards",
+    "star_ratings": 4,
+    "ratings":1200,
+    "status": "22 Total Hours, 155 Lecture, Beginner",
+    "price": 149.9
+  },
+  {
+    "id": 3,
+    "image": "/images/bg.jpg",
+    "title": "Beginners Guide to Design",
+    "subtitle": "By Ronald Richards",
+    "star_ratings": 5,
+    "ratings":1200,
+    "status": "22 Total Hours, 155 Lecture, Beginner",
+    "price": 149.9
+  },
+  {
+    "id": 4,
+    "image": "/images/bg.jpg",
+    "title": "Beginners Guide to Design",
+    "subtitle": "By Ronald Richards",
+    "star_ratings": 4,
+    "ratings":1200,
+    "status": "22 Total Hours, 155 Lecture, Beginner",
+    "price": 149.9
+  }
+]
